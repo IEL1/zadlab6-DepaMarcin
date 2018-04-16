@@ -61,7 +61,7 @@ public class Complex {
                      System.out.println("Sprzezenie pierwszej liczby zespolonej: ");
                      Sprzezenie(re, im);
                      System.out.println("Sprzezenie drugiej liczby zespolonej: ");
-                     Sprzezenie(re2, im21);
+                     Sprzezenie(re2, im2);
                      break; 
                  case 3:
                  System.out.println("Suma liczb zespolonych: ");
